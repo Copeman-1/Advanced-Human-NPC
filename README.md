@@ -1,4 +1,10 @@
+
+<img width="1328" height="903" alt="Screenshot 2025-11-15 200643" src="https://github.com/user-attachments/assets/eade44a0-be3d-4a09-9beb-2e69b6bd377a" /> <img width="1304" height="957" alt="Screenshot 2025-11-15 200652" src="https://github.com/user-attachments/assets/58b1f2c7-a818-4180-a64d-f1d8d232c809" /> <img width="1183" height="851" alt="Screenshot 2025-11-15 200659" src="https://github.com/user-attachments/assets/2ae83394-0234-4cb2-83ba-082bf0fa6984" /> <img width="1204" height="888" alt="Screenshot 2025-11-16 204610" src="https://github.com/user-attachments/assets/ec39a9c4-d3ac-43f6-89a3-fcec706e5168" />
+
+
 # AdvancedHumanNPC Integration Guide for Plugin Developers
+
+
 
 ## Overview
 
