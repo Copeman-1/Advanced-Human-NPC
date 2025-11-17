@@ -36,7 +36,7 @@ namespace Oxide.Plugins
         
         #region Data Classes
         
-        // HumanNPC Data Structure (OLD FORMAT - ACTUAL)
+        // HumanNPC Data Structure
         public class NpcData
         {
             public List<NPCInfo> HumanNPCs { get; set; } = new List<NPCInfo>();
@@ -94,7 +94,7 @@ namespace Oxide.Plugins
             public string rotation { get; set; }
         }
 
-        // AdvancedHumanNPC Data Structure (NEW FORMAT)
+        // AdvancedHumanNPC Data Structure
         public class AdvancedNPCData
         {
             public Dictionary<string, AdvancedNPCInfo> NPCs = new Dictionary<string, AdvancedNPCInfo>();
